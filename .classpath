@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -8,5 +9,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/KSY/Desktop/졸업프로젝트 방학/gson-2.8.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/KSY/Desktop/졸업프로젝트 방학/bcprov-jdk15on-1.68.jar"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+>>>>>>> ebce5f9e858929dd07fd3ef17b9f3ab132fc6822
 	<classpathentry kind="output" path="bin"/>
 </classpath>

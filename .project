@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Blockchain Test2</name>
+=======
+	<name>BlockchainTest</name>
+>>>>>>> ebce5f9e858929dd07fd3ef17b9f3ab132fc6822
 	<comment></comment>
 	<projects>
 	</projects>

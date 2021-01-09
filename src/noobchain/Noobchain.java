@@ -10,8 +10,8 @@ public class Noobchain {
 	public static Wallet walletB;
 	
 	public static void main(String[] args) {
-
-		/*blockchain.add(new Block("Hi im the first block", "0"));
+		/*
+		blockchain.add(new Block("Hi im the first block", "0"));
 		System.out.println("Trying to Mine block 1.....");
 		blockchain.get(0).mineBlock(difficulty);
 
@@ -27,7 +27,8 @@ public class Noobchain {
 
 		String blockchainJson = new GsonBuilder().setPrettyPrinting().create().toJson(blockchain);
 		System.out.println("\nThe block chain: ");
-		System.out.println(blockchainJson);*/
+		System.out.println(blockchainJson);
+		*/
 
 		// Setup Bouncey castle as a Security Provider
 		Security.addProvider(new org.bouncycastle.jce.provider.BouncyCastleProvider());
